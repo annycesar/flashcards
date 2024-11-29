@@ -2,15 +2,15 @@
     display: flex;
 }
 
-cartao{
+.cartao{
     margin:1rem 1rem;
     background-color: deeppink;
 }
 body {
     background-color: rgb(199, 176, 148);
     font-family: Roboto;
-    color: aqua 
-    font-size; 2%
+    color: aqua;
+    font-size: 70%;
 }
 
 footer {
