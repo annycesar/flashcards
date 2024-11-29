@@ -4,7 +4,7 @@
 
 .cartao{
     margin:1rem 1rem;
-    background-color: deeppink;
+    background-color: rgb(23, 131, 59);
 height: 20rem;
 flex-grow: 1;
 flex-basis: calc(33% -6rem);
@@ -15,7 +15,7 @@ flex-basis: calc(33% -6rem);
  height: 100%; 
  }
 body {
-    background-color: rgb(199, 176, 148);
+    background-color: rgb(238, 231, 222);
     font-family: Roboto;
     color: rgb(3, 39, 39);
     font-size: 300%;
